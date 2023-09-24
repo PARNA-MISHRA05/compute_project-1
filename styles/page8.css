@@ -1,0 +1,39 @@
+.page8{
+    width: 100vw;
+    height: 41.25vw;
+    background: rgba(38, 51, 93, 1);
+}
+.subs{
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: 5vw;
+    margin-top: 5.5vw;
+}
+.email-pg8{
+    width: 47vw;
+    height: 4vw;
+    margin-right: 0;
+    border-color: rgba(230, 230, 230, 1);
+    border-width: 1px;
+    position: relative;
+}
+.email-pg8::placeholder{
+    padding: 0.8vw;
+}
+.submitb{
+    width: 8vw;
+    height: 4vw;
+    text-align: center;
+    align-items: center;
+    margin-left: 0vw;
+    transform: translate(-7vw);
+    border-color: rgba(230, 230, 230, 1);
+    border-width: 1px;
+    border-style: solid;
+    border-top-right-radius: 0.35vw;
+    border-bottom-right-radius: 0.35vw;
+    background: rgba(141, 92, 246, 1);
+    color: rgba(230, 230, 230, 1);
+}

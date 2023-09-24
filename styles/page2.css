@@ -1,0 +1,102 @@
+.page-2{
+    background: #26335D;
+    width: 100vw;
+    height: 65vw;
+}
+.page-2-mid-text{
+    padding-top: 20vh;
+    margin-top: 0vw;
+    margin-left: 16vb;
+    font-family: Roboto;
+    font-size: 2.5vh;
+}
+.expert{
+    color: white;
+    margin-left: 16vb;
+    font-weight: bold;
+    font-size: 50px;
+    margin-top: 1vh;
+    letter-spacing: 1px;
+}
+.prob{
+    color: white;
+    font-weight: 400;
+    margin-left: 16vb;
+
+}
+.card-body hr{
+    position: relative;
+    height: 2px;
+    width: 50px;
+    background: #E74040;
+
+}
+
+
+.card,.card4{
+    border-radius: 0px;
+    height: 38vh;
+    margin-left: 16vb;
+    margin-top: 3vw;
+    display: inline-block;
+    padding-top: 3vw;
+}
+.img-card,.img-card2{
+    width: 10vb;
+    height: 8vh;
+    align-items: center;
+    
+    margin-left: 8vb;
+}
+.card-img-top{
+    width: 7vb;
+    height: 7vh;
+    border-radius: 10px;
+    border-color: #F6F7FB;
+}
+.card-text,.card-title,.img-card,hr{
+    margin-left: 4vb;
+    color: black;
+}
+.card2{
+    display: inline-block;
+    background: white;
+    width: 10vb;
+    height: 38vh;
+    /* margin-top: 14vw; */
+    margin-left: 8vb;
+}
+.card-img-top2{
+    /* width: 3vb;
+    height: 3vb;
+    object-fit: cover; */
+    padding-left: 1vw;
+    padding-top: 1vw;
+}
+.img-card2,.img-card3{
+    background: #DDF4FF;
+    margin-left: 3.2vb;
+    width: 4.8vw;
+    height: 5.2vw;
+    margin-top: 1.5vh;
+    align-items: center;
+    border-radius: 10px;
+}
+.img-card3{
+    background: #FFFFFF;
+}
+
+.card3{
+    margin-top: 0vw;
+    display: inline-block;
+    background: #8D5CF6;
+    width: 10vb;
+    height: 38vh;
+    color: white;
+}
+
+.card4 {
+    margin-left: 5vw;
+    background: #8D5CF6;
+    
+}

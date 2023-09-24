@@ -1,0 +1,31 @@
+.page7{
+    width: 100vw;
+    height: 60vw;
+    background:  rgba(38, 51, 93, 1);
+}
+.pg7-cards{
+    width: 73vw;
+    height: 30vw;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 4vw;
+    margin-left: 8vw;
+    padding-top: 5vw;
+}
+.pg7-c1{
+    background-color: white;
+    border: none;
+    border-radius: 2vw;
+
+}
+.smicons{
+    align-items: center;
+    margin-left: 3.2vw;
+}
+.pg7-img{
+    width: 1.67vw;
+    height: 1.67vw;
+    display: inline-block;
+    object-fit: cover;
+    margin-right: 2.2vw;
+}

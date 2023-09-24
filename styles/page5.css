@@ -1,0 +1,54 @@
+.page5{
+    width: 100vw;
+    height: 47vw;
+    background: rgba(38, 51, 93, 1);
+}
+.page5-content{
+    width: 73vw;
+    height: 25.2vw;
+    background: rgba(38, 51, 93, 1);
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    margin-left: 8.5vw;
+    padding-top: 10vw;
+}
+
+.page5_text h2{
+    color: white;
+    margin-top: 2vw;
+}
+
+
+.page5_text h2{
+    font-weight: bold;
+    font-size: 3vw;
+
+}
+.page5_text p{
+    margin-bottom: 0.5vw;
+}
+.page5_text h6{
+    margin-top: 0;
+    color: rgba(141, 92, 246, 1);
+    font-weight: bold;
+}
+.pg5_img{
+    position: absolute;
+    border: none;
+    border-radius: 2vw;
+    margin-left: 3vw;
+}
+.pg5_playicon{
+    position: relative;
+    left: 18vw;
+    top: 10vw;
+    height: 5.2vw;
+    width: 5.2vw;
+    border: none;
+    border-radius: 5vw; 
+    background: rgba(141, 92, 246, 1);
+
+}
+.fa{
+    color: white;
+}

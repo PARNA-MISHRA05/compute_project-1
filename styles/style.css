@@ -1,0 +1,139 @@
+.PAGE1{
+    width:100vw;
+    height: 58vw;
+    background: #8D5CF6;
+} 
+.upper{
+    width: 1322px;
+    height: 91px;
+    display: flex;
+    left: 59px;
+}
+.upper-text{
+    font-family: Roboto;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    width: 187px;
+    height: 58px;
+    padding-left: 136px;
+    padding-top: 17px;
+    
+   
+}
+.upper-mid2{
+    display: flex;
+    list-style: none;
+    margin-right: 20%;
+    width: 815px;
+    height: 58px;
+    padding-top:17px;
+    padding-left: 164px;
+    font-family: Roboto;
+    color: white;
+    padding: 3px,0px, 3px, 0 px;
+    font-weight: bold;
+}
+.list{
+    margin: 5px 30px;
+}
+.upper-right{
+    display: flex;
+    width: 400px;
+    height: 52px;
+    left: 515px;
+    /* top: 3px; */
+    gap: 45px;
+    margin-top: 14px;
+    font-family: Roboto;
+    font-weight: bold;
+    color: white;
+
+}
+
+
+.join{
+    margin-left: 45px;
+    width: 132px;
+    height: 45px;
+    padding: 15px, 25px, 15px, 25px;
+    border-radius: 5px;
+    gap: 15px;
+    background: #FF7B52;
+    border: none;
+
+}
+.join-text{
+    color: white;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 22px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    
+}
+.arrow{
+    width: 12px;
+    height: 10px;
+    font-weight: 700px;
+    color: white;
+}
+/* .middle{
+    width: 1,050px;
+    height: 720px;
+    margin-top: 104px;
+    left: 195px;
+    padding: 112px, 24px, 112px, 24px;
+    gap: 80px;
+    text-align: center;
+} */
+
+.mid-section{
+    text-align: center;
+    width: 50vw;
+    height: 46vh;
+    margin: auto;
+    margin-top: 30vh;
+
+}
+h1{
+    font-family: Roboto;
+    font-weight: bold;
+    color: white;
+    font-size: 8vh;
+
+}
+.mid-content{
+    font-family: Roboto;
+    font-weight: 500px;
+    color: white; 
+}
+/* .learn{
+    color: white;
+    font-weight: 500px;
+    font-size: 1.7vh;
+    margin-right: 0px;
+    margin-top: 8px;
+    border-radius: 5px;
+} */
+.get,.learn{
+    background: #FF7B52;
+    color: white;
+    
+    font-weight: bold;
+    font-size: 1 vw;
+    margin-right: 0px;
+    margin-top: 8px;
+    border-radius: 5px;
+    width: 13.2vw;
+    height: 3.6vw;
+    border: none;
+
+}
+.learn{
+    margin-left: 0px;
+    background: none;
+    border-color: #FF7B52;
+    border-style: solid;
+}

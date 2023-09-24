@@ -1,0 +1,78 @@
+.page3{
+    width: 100vw;
+    height: 75vw;
+    background: #26335D;
+}
+.page3-upper{
+    width: 72.5vw;
+    height: 10vw;
+    margin-left: 16vb;
+}
+.prob-text{
+    font-weight: 600px;
+    color: white;
+}
+.page3-cards{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 5vw;
+    margin-left: 16vb;
+    margin-top: 5vw;
+    width: 17vw;
+    
+}
+.card-pg3-1{
+    background: whitesmoke;
+    width: 16vw;
+    height: 38vw;
+    display: grid;
+    grid-template-rows: repeat(2, 1fr);
+}
+
+.img-card-pg3{
+    width: 16.2vw;
+    height: 20vw;
+    object-fit: cover;
+}
+
+.card-pg3-text{
+    margin-left: 1.5vw;
+    margin-top: 0vw;
+}
+
+.card-pg3-text p{
+    color: rgba(141, 92, 246, 1);
+    font-family: Roboto;
+    font-size: 1.1VW;
+    font-weight: bold;
+    padding-bottom: 0vw;
+    margin-bottom: 0vw;
+    text-align: left;
+}
+
+.star{
+    background-color: rgba(38, 51, 93, 1);
+    width: 3.5vw;
+    height: 1.8vw;
+    margin-left: 4vw;
+    color: white;
+    font-size: 12px;
+    border-radius: 1.8vw;
+    border: none;
+    border-style: solid;
+    
+}
+.learn-pg3{
+    width: 9.79vw;
+    height: 3vw;
+    border: 1px;
+    border-radius: 2.5vw;
+    border-style: solid;
+    border-color: rgba(141, 92, 246, 1);
+    color:  rgba(142, 93, 247, 1);
+    align-items: center;
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 1vw;
+}
+
